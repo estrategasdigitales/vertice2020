@@ -1,0 +1,578 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ACF-VC Integrator\n"
+"POT-Creation-Date: 2019-10-05 06:26+0200\n"
+"PO-Revision-Date: 2018-07-17 09:48+0200\n"
+"Last-Translator: Frederik Rosendahl-Kaa <frederik.rosendahl.kaa@outlook."
+"com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: acf-vc-integrator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: acf-vc-integrator.php:134
+msgid "Settings"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:19 admin/acf-vc-integrator-admin.php:48
+msgid "Default settings"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:20
+msgid "Hooks"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:21
+msgid "Changelog"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:49
+msgid "Gallery settings"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:50
+msgid "Goolge map settings"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:53 inc/wpbakery/wpbakery_element.php:111
+#: inc/wpbakery/wpbakery_grid_element.php:112
+msgid "Show label"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:54 inc/wpbakery/wpbakery_element.php:137
+#: inc/wpbakery/wpbakery_grid_element.php:137
+msgid "Align"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:55
+msgid "Email as link"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:56
+msgid "Date format"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:58
+msgid "Date Time format"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:59
+msgid "Time format"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:65 inc/wpbakery/wpbakery_element.php:171
+#: inc/wpbakery/wpbakery_grid_element.php:171
+msgid "Repeater header"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:70 inc/wpbakery/wpbakery_element.php:183
+#: inc/wpbakery/wpbakery_grid_element.php:183
+msgid "Columns"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:71 inc/wpbakery/wpbakery_element.php:202
+#: inc/wpbakery/wpbakery_grid_element.php:202
+msgid "Image size"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:72 inc/wpbakery/wpbakery_element.php:210
+#: inc/wpbakery/wpbakery_grid_element.php:210
+msgid "Order by"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:73 inc/wpbakery/wpbakery_element.php:225
+#: inc/wpbakery/wpbakery_grid_element.php:225
+msgid "Order"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:74 inc/wpbakery/wpbakery_element.php:237
+#: inc/wpbakery/wpbakery_grid_element.php:237
+msgid "Itemtag"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:75 inc/wpbakery/wpbakery_element.php:258
+#: inc/wpbakery/wpbakery_grid_element.php:258
+msgid "Icontag"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:76 inc/wpbakery/wpbakery_element.php:279
+#: inc/wpbakery/wpbakery_grid_element.php:279
+msgid "Captiontag"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:77 inc/wpbakery/wpbakery_element.php:300
+#: inc/wpbakery/wpbakery_grid_element.php:300
+msgid "Link"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:80
+msgid "Placecard"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:81
+msgid "Zoom control"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:82
+msgid "Type control"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:83
+msgid "Fullscreen control"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:84
+msgid "Street view"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:85
+msgid "Show scale"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:119 admin/acf-vc-integrator-admin.php:410
+#: admin/acf-vc-integrator-admin.php:431 admin/acf-vc-integrator-admin.php:452
+#: admin/acf-vc-integrator-admin.php:473 admin/acf-vc-integrator-admin.php:494
+#: admin/acf-vc-integrator-admin.php:515 inc/wpbakery/wpbakery_element.php:115
+#: inc/wpbakery/wpbakery_grid_element.php:116
+msgid "No"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:120 admin/acf-vc-integrator-admin.php:411
+#: admin/acf-vc-integrator-admin.php:432 admin/acf-vc-integrator-admin.php:453
+#: admin/acf-vc-integrator-admin.php:474 admin/acf-vc-integrator-admin.php:495
+#: admin/acf-vc-integrator-admin.php:516 inc/wpbakery/wpbakery_element.php:116
+#: inc/wpbakery/wpbakery_grid_element.php:117
+msgid "Yes"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:121 inc/wpbakery/wpbakery_element.php:117
+#: inc/wpbakery/wpbakery_grid_element.php:118
+msgid "Yes and hide if no result"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:137 inc/wpbakery/wpbakery_element.php:141
+#: inc/wpbakery/wpbakery_grid_element.php:141
+msgid "left"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:138 inc/wpbakery/wpbakery_element.php:142
+#: inc/wpbakery/wpbakery_grid_element.php:142
+msgid "right"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:139 inc/wpbakery/wpbakery_element.php:143
+#: inc/wpbakery/wpbakery_grid_element.php:143
+msgid "center"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:140 inc/wpbakery/wpbakery_element.php:144
+#: inc/wpbakery/wpbakery_grid_element.php:144
+msgid "justify"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:174
+msgid "WordPress date format"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:175 admin/acf-vc-integrator-admin.php:192
+#: admin/acf-vc-integrator-admin.php:209
+msgid "ACF return format"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:191
+msgid "WordPress date time format"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:208
+msgid "WordPress time format"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:225
+msgid "div"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:226
+msgid "table"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:242
+msgid "Hide repeater header"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:243
+msgid "Show repeater header"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:312
+msgid "ID"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:313
+msgid "Menu order"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:314
+msgid "Title"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:315
+msgid "Post date"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:316
+msgid "Random"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:332
+msgid "ASC"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:333
+msgid "DESC"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:389
+msgid "None"
+msgstr ""
+
+#: admin/acf-vc-integrator-admin.php:390
+msgid "File"
+msgstr ""
+
+#: admin/hooks.php:3
+msgid "ACF-VC default output"
+msgstr ""
+
+#: admin/hooks.php:4
+msgid "ACF field data"
+msgstr ""
+
+#: admin/hooks.php:5
+msgid "The post id"
+msgstr ""
+
+#: admin/hooks.php:6
+msgid ""
+"Settings for the gallery field that have been set through the acf-vc element "
+"or as default settings"
+msgstr ""
+
+#: admin/hooks.php:7
+msgid "Link text that is inserted through the acf-vc element"
+msgstr ""
+
+#: admin/hooks.php:8
+msgid "Array"
+msgstr ""
+
+#: admin/hooks.php:9
+msgid "ACF version number"
+msgstr ""
+
+#: admin/hooks.php:10
+msgid "Field key"
+msgstr ""
+
+#: admin/hooks.php:11
+msgid "Clone field key"
+msgstr ""
+
+#: inc/acf_vc_helper.php:486
+msgid "View larger map"
+msgstr ""
+
+#: inc/acf_vc_helper.php:491
+msgid "Directions"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:17
+#: inc/wpbakery/wpbakery_grid_element.php:17
+msgid "No options pages exist"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:38 inc/wpbakery/wpbakery_element.php:97
+#: inc/wpbakery/wpbakery_grid_element.php:38
+#: inc/wpbakery/wpbakery_grid_element.php:98
+msgid "Field name"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:42
+#: inc/wpbakery/wpbakery_grid_element.php:42
+msgid "Select field from group."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:66
+#: inc/wpbakery/wpbakery_grid_element.php:67
+msgid "Content"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:67
+#: inc/wpbakery/wpbakery_grid_element.php:68
+msgid "Advanced Custom Field - Visual Composer Integrator"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:74
+#: inc/wpbakery/wpbakery_grid_element.php:75
+msgid "Get field data from"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:79
+#: inc/wpbakery/wpbakery_grid_element.php:80
+msgid "Choose where from the field retrieve data from."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:85
+#: inc/wpbakery/wpbakery_grid_element.php:86
+msgid "Field group"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:90
+#: inc/wpbakery/wpbakery_grid_element.php:91
+msgid "Select field group."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:105
+#: inc/wpbakery/wpbakery_grid_element.php:106
+msgid "Css"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:107
+#: inc/wpbakery/wpbakery_grid_element.php:108
+msgid "Design options"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:118 inc/wpbakery/wpbakery_element.php:127
+#: inc/wpbakery/wpbakery_grid_element.php:119
+#: inc/wpbakery/wpbakery_grid_element.php:127
+msgid "Custom label"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:119
+#: inc/wpbakery/wpbakery_grid_element.php:120
+msgid "Custom label and hide if no result"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:123
+#: inc/wpbakery/wpbakery_grid_element.php:123
+msgid "Enter label to display before key value."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:147
+#: inc/wpbakery/wpbakery_grid_element.php:147
+msgid "Select alignment."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:151
+#: inc/wpbakery/wpbakery_grid_element.php:151
+msgid "Extra class name"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:153
+#: inc/wpbakery/wpbakery_grid_element.php:153
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:158
+#: inc/wpbakery/wpbakery_grid_element.php:158
+msgid "Show prepend/append"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:161
+#: inc/wpbakery/wpbakery_grid_element.php:161
+msgid "Applicable only for text, number, range, email and password fields."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:165
+#: inc/wpbakery/wpbakery_grid_element.php:165
+msgid "Custom Link Text"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:167
+#: inc/wpbakery/wpbakery_grid_element.php:167
+msgid "Applicable only for File Objects and Page Links"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:178
+#: inc/wpbakery/wpbakery_grid_element.php:178
+msgid "Display a row with field labels"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:179
+#: inc/wpbakery/wpbakery_grid_element.php:179
+msgid "Repeater"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:197
+#: inc/wpbakery/wpbakery_grid_element.php:197
+msgid "Select number of columns."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:198 inc/wpbakery/wpbakery_element.php:206
+#: inc/wpbakery/wpbakery_element.php:221 inc/wpbakery/wpbakery_element.php:233
+#: inc/wpbakery/wpbakery_element.php:244 inc/wpbakery/wpbakery_element.php:254
+#: inc/wpbakery/wpbakery_element.php:265 inc/wpbakery/wpbakery_element.php:275
+#: inc/wpbakery/wpbakery_element.php:286 inc/wpbakery/wpbakery_element.php:296
+#: inc/wpbakery/wpbakery_element.php:308
+#: inc/wpbakery/wpbakery_grid_element.php:198
+#: inc/wpbakery/wpbakery_grid_element.php:206
+#: inc/wpbakery/wpbakery_grid_element.php:221
+#: inc/wpbakery/wpbakery_grid_element.php:233
+#: inc/wpbakery/wpbakery_grid_element.php:244
+#: inc/wpbakery/wpbakery_grid_element.php:254
+#: inc/wpbakery/wpbakery_grid_element.php:265
+#: inc/wpbakery/wpbakery_grid_element.php:275
+#: inc/wpbakery/wpbakery_grid_element.php:286
+#: inc/wpbakery/wpbakery_grid_element.php:296
+#: inc/wpbakery/wpbakery_grid_element.php:308
+msgid "Gallery field"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:205
+#: inc/wpbakery/wpbakery_grid_element.php:205
+msgid "Select a iamge size."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:220
+#: inc/wpbakery/wpbakery_grid_element.php:220
+msgid "Order image by"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:232
+#: inc/wpbakery/wpbakery_grid_element.php:232
+msgid "Order image"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:243
+#: inc/wpbakery/wpbakery_grid_element.php:243
+msgid "The name of the XHTML tag used to enclose each item in the gallery."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:248
+#: inc/wpbakery/wpbakery_grid_element.php:248
+msgid "Custom itemtag"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:264
+#: inc/wpbakery/wpbakery_grid_element.php:264
+msgid ""
+"The name of the XHTML tag used to enclose each thumbnail icon in the gallery."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:269
+#: inc/wpbakery/wpbakery_grid_element.php:269
+msgid "Custom icontag"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:285
+#: inc/wpbakery/wpbakery_grid_element.php:285
+msgid "The name of the XHTML tag used to enclose each caption."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:290
+#: inc/wpbakery/wpbakery_grid_element.php:290
+msgid "Custom captiontag"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:307
+#: inc/wpbakery/wpbakery_grid_element.php:307
+msgid "Specify where you want the image to link."
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:312
+#: inc/wpbakery/wpbakery_grid_element.php:312
+msgid "Prepend text"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:314 inc/wpbakery/wpbakery_element.php:326
+#: inc/wpbakery/wpbakery_element.php:336
+#: inc/wpbakery/wpbakery_grid_element.php:314
+#: inc/wpbakery/wpbakery_grid_element.php:326
+#: inc/wpbakery/wpbakery_grid_element.php:336
+msgid "File field"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:318
+#: inc/wpbakery/wpbakery_grid_element.php:318
+msgid "Link text"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:325
+#: inc/wpbakery/wpbakery_grid_element.php:325
+msgid ""
+"Applicable only for File Objects. The custom link text field is found under "
+"the General tab"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:330
+#: inc/wpbakery/wpbakery_grid_element.php:330
+msgid "Link target"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:340
+#: inc/wpbakery/wpbakery_grid_element.php:340
+msgid "Map height"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:343 inc/wpbakery/wpbakery_element.php:350
+#: inc/wpbakery/wpbakery_element.php:362 inc/wpbakery/wpbakery_element.php:374
+#: inc/wpbakery/wpbakery_element.php:386 inc/wpbakery/wpbakery_element.php:398
+#: inc/wpbakery/wpbakery_element.php:410 inc/wpbakery/wpbakery_element.php:422
+#: inc/wpbakery/wpbakery_grid_element.php:343
+#: inc/wpbakery/wpbakery_grid_element.php:350
+#: inc/wpbakery/wpbakery_grid_element.php:362
+#: inc/wpbakery/wpbakery_grid_element.php:374
+#: inc/wpbakery/wpbakery_grid_element.php:386
+#: inc/wpbakery/wpbakery_grid_element.php:398
+#: inc/wpbakery/wpbakery_grid_element.php:410
+#: inc/wpbakery/wpbakery_grid_element.php:422
+msgid "Google map"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:347
+#: inc/wpbakery/wpbakery_grid_element.php:347
+msgid "Zoom level"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:354
+#: inc/wpbakery/wpbakery_grid_element.php:354
+msgid "Display placecard"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:366
+#: inc/wpbakery/wpbakery_grid_element.php:366
+msgid "Display map type control"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:378
+#: inc/wpbakery/wpbakery_grid_element.php:378
+msgid "Display fullscreen control"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:390
+#: inc/wpbakery/wpbakery_grid_element.php:390
+msgid "Display street view control"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:402
+#: inc/wpbakery/wpbakery_grid_element.php:402
+msgid "Display zoom control"
+msgstr ""
+
+#: inc/wpbakery/wpbakery_element.php:414
+#: inc/wpbakery/wpbakery_grid_element.php:414
+msgid "Display scale"
+msgstr ""

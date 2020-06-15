@@ -1,0 +1,464 @@
+# Copyright (C) 2018 Before and After Slider for VC
+# This file is distributed under the same license as the Before and After Slider for VC package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Before and After Slider for VC\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#: class-before-and-after.php:167
+msgid "Before And After"
+msgstr "Before And After"
+
+#: class-before-and-after.php:170
+msgid "Interactive image comparison"
+msgstr "Interactive image comparison"
+
+#: class-before-and-after.php:175
+msgid "The \"Before\" Image"
+msgstr "The \"Before\" Image"
+
+#: class-before-and-after.php:178
+msgid ""
+"Select your image that will serve as the \"BEFORE\" image. This will "
+"typically show underneath. The slider will take on the size of the smallest "
+"before or after image."
+msgstr ""
+"Select your image that will serve as the \"BEFORE\" image. This will "
+"typically show underneath. The slider will take on the size of the smallest "
+"before or after image."
+
+#: class-before-and-after.php:179, class-before-and-after.php:187,
+#: class-before-and-after.php:195
+msgid "Images"
+msgstr "Images"
+
+#: class-before-and-after.php:183
+msgid "The \"After\" Image"
+msgstr "The \"After\" Image"
+
+#: class-before-and-after.php:186
+msgid ""
+"Select your image that will serve as the \"AFTER\" image. This will "
+"typically show above the BEFORE image. The slider will take on the size of "
+"the smallest before or after image."
+msgstr ""
+"Select your image that will serve as the \"AFTER\" image. This will "
+"typically show above the BEFORE image. The slider will take on the size of "
+"the smallest before or after image."
+
+#: class-before-and-after.php:191
+msgid "Width"
+msgstr "Width"
+
+#: class-before-and-after.php:194
+msgid ""
+"By default, the slider is responsive. Add a width here in pixels if you want "
+"to specify the width."
+msgstr ""
+"By default, the slider is responsive. Add a width here in pixels if you want "
+"to specify the width."
+
+#: class-before-and-after.php:199
+msgid "Slide Direction"
+msgstr "Slide Direction"
+
+#: class-before-and-after.php:203
+msgid "Vertical"
+msgstr "Vertical"
+
+#: class-before-and-after.php:204
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: class-before-and-after.php:206
+msgid "Choose your slide direction here."
+msgstr "Choose your slide direction here."
+
+#: class-before-and-after.php:207, class-before-and-after.php:215,
+#: class-before-and-after.php:224, class-before-and-after.php:237,
+#: class-before-and-after.php:247, class-before-and-after.php:259,
+#: class-before-and-after.php:271
+msgid "Slider"
+msgstr "Slider"
+
+#: class-before-and-after.php:211
+msgid "Starting Position"
+msgstr "Starting Position"
+
+#: class-before-and-after.php:214
+msgid ""
+"Enter the starting point, in decimal percentage, of the comparison slider "
+"upon loading. The default is 50% (as .50), where the slider is positioned "
+"midway. Value should be between 0.0 to 1.0"
+msgstr ""
+"Enter the starting point, in decimal percentage, of the comparison slider "
+"upon loading. The default is 50% (as .50), where the slider is positioned "
+"midway. Value should be between 0.0 to 1.0"
+
+#: class-before-and-after.php:219
+msgid "Slide Angle"
+msgstr "Slide Angle"
+
+#: class-before-and-after.php:223
+msgid ""
+"Enter a number in degrees that will determine the sliding angle. Minimum is "
+"0 degrees, maximum value is 45 degrees.<br><br>CAUTION: Rendering engines of "
+"browsers may treat differently-angled (not 0 or 45 degrees) images in an "
+"unpredictable manner and may introduce unwanted image effects. Use angles at "
+"your own risk."
+msgstr ""
+"Enter a number in degrees that will determine the sliding angle. Minimum is "
+"0 degrees, maximum value is 45 degrees.<br><br>CAUTION: Rendering engines of "
+"browsers may treat differently-angled (not 0 or 45 degrees) images in an "
+"unpredictable manner and may introduce unwanted image effects. Use angles at "
+"your own risk."
+
+#: class-before-and-after.php:228
+msgid "Slide Movement Behavior"
+msgstr "Slide Movement Behavior"
+
+#: class-before-and-after.php:232
+msgid "Follow on Hover"
+msgstr "Follow on Hover"
+
+#: class-before-and-after.php:233
+msgid "Click and Drag"
+msgstr "Click and Drag"
+
+#: class-before-and-after.php:234
+msgid "No Action"
+msgstr "No Action"
+
+#: class-before-and-after.php:236
+msgid "Choose your slide behavior effect."
+msgstr "Choose your slide behavior effect."
+
+#: class-before-and-after.php:241
+msgid "Return slider to starting point"
+msgstr "Return slider to starting point"
+
+#: class-before-and-after.php:244
+msgid ""
+"Check to return the slider to its starting point after a specified idle "
+"period."
+msgstr ""
+"Check to return the slider to its starting point after a specified idle "
+"period."
+
+#: class-before-and-after.php:251
+msgid "Return Delay"
+msgstr "Return Delay"
+
+#: class-before-and-after.php:254
+msgid ""
+"Enter the delay, in milliseconds, before the slider reverts to its starting "
+"point once the focus is lost."
+msgstr ""
+"Enter the delay, in milliseconds, before the slider reverts to its starting "
+"point once the focus is lost."
+
+#: class-before-and-after.php:263
+msgid "Return Speed"
+msgstr "Return Speed"
+
+#: class-before-and-after.php:266
+msgid ""
+"How long will the animation take for it to go through the returning point? "
+"Enter the duration, in milliseconds."
+msgstr ""
+"How long will the animation take for it to go through the returning point? "
+"Enter the duration, in milliseconds."
+
+#: class-before-and-after.php:275
+msgid "Arrows"
+msgstr "Arrows"
+
+#: class-before-and-after.php:278
+msgid "Check to enable usage of arrows."
+msgstr "Check to enable usage of arrows."
+
+#: class-before-and-after.php:281, class-before-and-after.php:296,
+#: class-before-and-after.php:308, class-before-and-after.php:320,
+#: class-before-and-after.php:332, class-before-and-after.php:344
+msgid "Cosmetics"
+msgstr "Cosmetics"
+
+#: class-before-and-after.php:288
+msgid "Normal"
+msgstr "Normal"
+
+#: class-before-and-after.php:289
+msgid "Small"
+msgstr "Small"
+
+#: class-before-and-after.php:291
+msgid "Select the size of the arrows"
+msgstr "Select the size of the arrows"
+
+#: class-before-and-after.php:300
+msgid "Arrow Color"
+msgstr "Arrow Color"
+
+#: class-before-and-after.php:303
+msgid "Choose the color of the arrow."
+msgstr "Choose the color of the arrow."
+
+#: class-before-and-after.php:312
+msgid "Arrow Gap"
+msgstr "Arrow Gap"
+
+#: class-before-and-after.php:315
+msgid "The gap of the arrows from the split, in pixels"
+msgstr "The gap of the arrows from the split, in pixels"
+
+#: class-before-and-after.php:324
+msgid "Arrow Horizontal Offset"
+msgstr "Arrow Horizontal Offset"
+
+#: class-before-and-after.php:327
+msgid "The horizontal offset of the arrows, in pixels"
+msgstr "The horizontal offset of the arrows, in pixels"
+
+#: class-before-and-after.php:336
+msgid "Arrow Vertical Offset"
+msgstr "Arrow Vertical Offset"
+
+#: class-before-and-after.php:339
+msgid "The vertical offset of the arrows, in pixels"
+msgstr "The vertical offset of the arrows, in pixels"
+
+#: class-before-and-after.php:348, class-before-and-after.php:354,
+#: class-before-and-after.php:366, class-before-and-after.php:378
+msgid "Border"
+msgstr "Border"
+
+#: class-before-and-after.php:351
+msgid "Check to display a border at the edge of the slider"
+msgstr "Check to display a border at the edge of the slider"
+
+#: class-before-and-after.php:361
+msgid "The width of the slider border, in pixels."
+msgstr "The width of the slider border, in pixels."
+
+#: class-before-and-after.php:370
+msgid "Border Color"
+msgstr "Border Color"
+
+#: class-before-and-after.php:373
+msgid "Choose the color of the border of the slider."
+msgstr "Choose the color of the border of the slider."
+
+#: class-before-and-after.php:382
+msgid "Before image caption"
+msgstr "Before image caption"
+
+#: class-before-and-after.php:385
+msgid ""
+"Enter your caption for the \"BEFORE\" image. This field will not be rendered "
+"and its styling options disregarded, if empty."
+msgstr ""
+"Enter your caption for the \"BEFORE\" image. This field will not be rendered "
+"and its styling options disregarded, if empty."
+
+#: class-before-and-after.php:386, class-before-and-after.php:398,
+#: class-before-and-after.php:412, class-before-and-after.php:420,
+#: class-before-and-after.php:428, class-before-and-after.php:436,
+#: class-before-and-after.php:448, class-before-and-after.php:462,
+#: class-before-and-after.php:470, class-before-and-after.php:478
+msgid "Caption"
+msgstr "Caption"
+
+#: class-before-and-after.php:390
+msgid "Before image caption vertical positioning"
+msgstr "Before image caption vertical positioning"
+
+#: class-before-and-after.php:393, class-before-and-after.php:443
+msgid "Top"
+msgstr "Top"
+
+#: class-before-and-after.php:394, class-before-and-after.php:444
+msgid "Middle"
+msgstr "Middle"
+
+#: class-before-and-after.php:395, class-before-and-after.php:445
+msgid "Bottom"
+msgstr "Bottom"
+
+#: class-before-and-after.php:397, class-before-and-after.php:411
+msgid "Choose the orientation of the Before image caption."
+msgstr "Choose the orientation of the Before image caption."
+
+#: class-before-and-after.php:402
+msgid "Before image caption horizontal positioning"
+msgstr "Before image caption horizontal positioning"
+
+#: class-before-and-after.php:405, class-before-and-after.php:455,
+#: class-before-and-after.php:497
+msgid "Left"
+msgstr "Left"
+
+#: class-before-and-after.php:406, class-before-and-after.php:456
+msgid "Halfway Left"
+msgstr "Halfway Left"
+
+#: class-before-and-after.php:407, class-before-and-after.php:457
+msgid "Center"
+msgstr "Center"
+
+#: class-before-and-after.php:408, class-before-and-after.php:458
+msgid "Halfway Right"
+msgstr "Halfway Right"
+
+#: class-before-and-after.php:409, class-before-and-after.php:459,
+#: class-before-and-after.php:498
+msgid "Right"
+msgstr "Right"
+
+#: class-before-and-after.php:416
+msgid "Before image caption color"
+msgstr "Before image caption color"
+
+#: class-before-and-after.php:419
+msgid "Choose the color of the Before image caption."
+msgstr "Choose the color of the Before image caption."
+
+#: class-before-and-after.php:424
+msgid "Before image caption padding"
+msgstr "Before image caption padding"
+
+#: class-before-and-after.php:427
+msgid "Choose the padding thickness of the Before image caption."
+msgstr "Choose the padding thickness of the Before image caption."
+
+#: class-before-and-after.php:432
+msgid "After image caption"
+msgstr "After image caption"
+
+#: class-before-and-after.php:435
+msgid ""
+"Enter your caption for the \"AFTER\" image. This field will not be rendered "
+"and its styling options disregarded, if empty."
+msgstr ""
+"Enter your caption for the \"AFTER\" image. This field will not be rendered "
+"and its styling options disregarded, if empty."
+
+#: class-before-and-after.php:440
+msgid "After image caption vertical positioning"
+msgstr "After image caption vertical positioning"
+
+#: class-before-and-after.php:447
+msgid "Choose the veritcal orientation of the After image caption."
+msgstr "Choose the veritcal orientation of the After image caption."
+
+#: class-before-and-after.php:452
+msgid "After image caption horizontal positioning"
+msgstr "After image caption horizontal positioning"
+
+#: class-before-and-after.php:461
+msgid "Choose the horizontal orientation of the After image caption."
+msgstr "Choose the horizontal orientation of the After image caption."
+
+#: class-before-and-after.php:466
+msgid "After image caption color"
+msgstr "After image caption color"
+
+#: class-before-and-after.php:469
+msgid "Choose the color of the After image caption."
+msgstr "Choose the color of the After image caption."
+
+#: class-before-and-after.php:474
+msgid "After image caption padding"
+msgstr "After image caption padding"
+
+#: class-before-and-after.php:477
+msgid "Choose the padding thickness of the After image caption."
+msgstr "Choose the padding thickness of the After image caption."
+
+#: class-before-and-after.php:482, class-before-and-after.php:488,
+#: class-before-and-after.php:506, class-before-and-after.php:518,
+#: class-before-and-after.php:530, class-before-and-after.php:542,
+#: class-before-and-after.php:554
+msgid "Scrollbar"
+msgstr "Scrollbar"
+
+#: class-before-and-after.php:485
+msgid "Check to display a draggable scrollbar."
+msgstr "Check to display a draggable scrollbar."
+
+#: class-before-and-after.php:492
+msgid "Scrollbar positioning"
+msgstr "Scrollbar positioning"
+
+#: class-before-and-after.php:495
+msgid "Up"
+msgstr "Up"
+
+#: class-before-and-after.php:496
+msgid "Down"
+msgstr "Down"
+
+#: class-before-and-after.php:500
+msgid "Choose the orientation of the scrollbar."
+msgstr "Choose the orientation of the scrollbar."
+
+#: class-before-and-after.php:510
+msgid "Scrollbar border color"
+msgstr "Scrollbar border color"
+
+#: class-before-and-after.php:513
+msgid "Choose the color of the border of the scrollbar."
+msgstr "Choose the color of the border of the scrollbar."
+
+#: class-before-and-after.php:522
+msgid "Scrollbar border thickness"
+msgstr "Scrollbar border thickness"
+
+#: class-before-and-after.php:525
+msgid "Choose the thickness of the border of the scrollbar."
+msgstr "Choose the thickness of the border of the scrollbar."
+
+#: class-before-and-after.php:534
+msgid "Scrollbar button color"
+msgstr "Scrollbar button color"
+
+#: class-before-and-after.php:537
+msgid "Choose the color of the scrollbar button element."
+msgstr "Choose the color of the scrollbar button element."
+
+#: class-before-and-after.php:549
+msgid "Choose the thickness of the scrollbar button element."
+msgstr "Choose the thickness of the scrollbar button element."
+
+#: class-before-and-after.php:558
+msgid "Custom Class"
+msgstr "Custom Class"
+
+#: class-before-and-after.php:561
+msgid "Add a custom class name for this element."
+msgstr "Add a custom class name for this element."
+
+#: class-before-and-after.php:562
+msgid "Custom"
+msgstr "Custom"
+
+#: class-plugin.php:79
+msgid "Get Customer Support"
+msgstr "Get Customer Support"
+
+#: class-plugin.php:83
+msgid "Get More Plugins"
+msgstr "Get More Plugins"

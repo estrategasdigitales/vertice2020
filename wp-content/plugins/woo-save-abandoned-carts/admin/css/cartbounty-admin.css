@@ -1,0 +1,413 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+.cartbounty-bubble{
+	-webkit-transition: 	all 1.6s cubic-bezier(0.815, 0, 0.230, 1);
+	-webkit-transition: 	all 1.6s cubic-bezier(0.815, -0.250, 0.230, 1.280);
+	-moz-transition: 		all 1.6s cubic-bezier(0.815, -0.250, 0.230, 1.280);
+	-o-transition: 			all 1.6s cubic-bezier(0.815, -0.250, 0.230, 1.280);
+	transition: 			all 1.6s cubic-bezier(0.815, -0.250, 0.230, 1.280);
+}
+
+#cartbounty-bubbles .button,
+.cartbounty-close,
+#cartbounty-go-pro-header-image a,
+#cartbounty-page-wrapper .submit:after,
+.cartbounty-exit-intent-type .button{
+	-webkit-transition: 	all 0.2s ease-in-out;
+	-webkit-transition: 	all 0.2s ease-in-out;
+	-moz-transition: 		all 0.2s ease-in-out;
+	-o-transition: 			all 0.2s ease-in-out;
+	transition: 			all 0.2s ease-in-out;
+}
+
+#cartbounty-exit-intent-left i,
+#cartbounty-exit-intent-fullscreen i{
+	-webkit-transition: 	all 0.4s ease-in-out;
+	-webkit-transition: 	all 0.4s ease-in-out;
+	-moz-transition: 		all 0.4s ease-in-out;
+	-o-transition: 			all 0.4s ease-in-out;
+	transition: 			all 0.4s ease-in-out;
+}
+
+.cartbounty-exit-intent-additional-style{
+	-webkit-transition: 	all 0.4s ease-in-out;
+	-webkit-transition: 	all 0.4s ease-in-out;
+	-moz-transition: 		all 0.4s ease-in-out;
+	-o-transition: 			all 0.4s ease-in-out;
+	transition: 			all 0.4s ease-in-out;
+}
+
+#cartbounty-page-wrapper h1{
+	margin: 15px 0;
+	font-size: 20px;
+	line-height: 26px;
+}
+ 
+.wlcfc-product-list{
+	list-style-type: decimal;
+	list-style-position: outside;
+	padding-left: 10px;
+	margin: 0;
+}
+
+.woocommerce_page_cartbounty .column-cart_contents{
+	width: 350px;
+}
+
+.woocommerce_page_cartbounty .column-time{
+	width: 180px;
+}
+
+#cartbounty-table .column-id{
+	width: 60px;
+}
+
+#adminmenu li.current a .new-abandoned{
+	background: #00b9eb;
+}
+
+.cartbounty-tab-icon{
+	padding: 2px 5px 2px 5px;
+}
+
+.cartbounty-tab-name{
+	padding: 0 10px 0 5px;
+}
+
+#cartbounty-page-wrapper .form-table .cartbounty-checkbox,
+#cartbounty-page-wrapper .form-table .cartbounty-radiobutton{
+	width: 1rem;
+	max-width: unset;
+}
+
+.cartbounty-notification{
+	display: block;
+	border-left-color: #46b450;
+}
+
+.cartbounty-notification.warning{
+	border-left-color: #ff5d00;
+}
+
+#cartbounty-setup-automation .left-part{
+	width: 85%;
+	padding-right: 5%;
+	float: left;
+}
+
+.cartbounty-notification p{
+	margin: 0;
+}
+
+.cartbounty-description{
+	max-width: 600px;
+}
+
+.cartbounty-bubble{
+	float: left;
+	width: 200px;
+	margin-left: 30px;
+	-webkit-box-shadow: 2px 1px 10px 0px rgba(0,0,0,0.3);
+	-moz-box-shadow: 2px 1px 10px 0px rgba(0,0,0,0.3);
+	box-shadow: 2px 1px 10px 0px rgba(0,0,0,0.3);
+	overflow: hidden;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	position: fixed;
+	top: -600px;
+	right: 50px;
+	z-index: 1000;
+}
+
+#cartbounty_review_submitted{
+	display: none;
+}
+
+.cartbounty-header-image{
+	text-align: center;
+}
+#cartbounty-go-pro .cartbounty-header-image{
+	background: rgb(201,176,253); /* Old browsers */
+    background: -moz-linear-gradient(-45deg, rgba(201,176,253,1) 0%, rgba(195,168,253,1) 9%, rgba(177,145,252,1) 26%, rgba(170,136,252,1) 35%, rgba(170,136,252,1) 60%, rgba(195,144,242,1) 90%, rgba(198,145,241,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, rgba(201,176,253,1) 0%,rgba(195,168,253,1) 9%,rgba(177,145,252,1) 26%,rgba(170,136,252,1) 35%,rgba(170,136,252,1) 60%,rgba(195,144,242,1) 90%,rgba(198,145,241,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, rgba(201,176,253,1) 0%,rgba(195,168,253,1) 9%,rgba(177,145,252,1) 26%,rgba(170,136,252,1) 35%,rgba(170,136,252,1) 60%,rgba(195,144,242,1) 90%,rgba(198,145,241,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9b0fd', endColorstr='#c691f1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+#cartbounty-review .cartbounty-header-image{
+	background: #ffd601; /* Old browsers */
+	background: -moz-linear-gradient(-45deg,  #ffd601 0%, #ffde01 49%, #ffe851 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg,  #ffd601 0%,#ffde01 49%,#ffe851 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg,  #ffd601 0%,#ffde01 49%,#ffe851 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffd601', endColorstr='#ffe851',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.cartbounty-header-image a{
+	display: block;
+	padding: 0;
+	line-height: 0;
+}
+
+.cartbounty-header-image img{
+	height: 130px;
+	padding: 0;
+}
+
+#cartbounty-go-pro .cartbounty-header-image a:hover{
+	background: #aa88fc;
+}
+
+#cartbounty-review .cartbounty-header-image a:hover{
+	background: #ffde01;
+}
+
+#cartbounty-go-pro-content,
+#cartbounty-review-content{
+	padding: 20px 20px 10px;
+	background: #23282d;
+	color: #dbdbdb;
+}
+
+#cartbounty-go-pro-content h2,
+#cartbounty-review-content h2{
+	line-height: 21px;
+	color: #fff;
+	margin: 0;
+}
+
+#cartbounty-review form p.submit{
+	display: inline;
+	padding: 0;
+	margin: 0;
+}
+#cartbounty-review .cartbounty-review-submitted{
+	text-shadow: none;
+}
+
+.cartbounty-button-row{
+	padding-top: 5px;
+	margin-bottom: 8px;
+}
+
+#cartbounty-bubbles .button,
+.cartbounty-exit-intent-type .button{
+	background: #ffde01;
+	color: #000;
+	border: 0px none;
+	margin-right: 15px;
+	margin-bottom: 7px;
+	padding-right: 18px;
+	padding-left: 18px;
+	-webkit-box-shadow: none;
+	-moz-box-shadow:    none;
+	box-shadow:         none;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+#cartbounty-bubbles .button.cartbounty-close{
+	background: none;
+	color: #fff;
+	padding-left: 0;
+	padding-right: 0;
+	margin: 0;
+}
+
+#cartbounty-review .cartbounty-review-submitted{
+	background: #cbcbcb;
+}
+
+#cartbounty-bubbles .button:hover,
+#cartbounty-review .cartbounty-review-submitted:hover,
+.cartbounty-exit-intent-type .button:hover{
+	background: #bc8df4;
+}
+
+.cartbounty-close{
+	color: #fff;
+	cursor: pointer;
+}
+
+#cartbounty-bubbles .button.cartbounty-close:hover{
+	color: #d2b4b4;
+	background: none;
+}
+
+.cartbounty_get_pro a{
+	color: #46b450;
+	font-weight: 600;
+}
+
+.cartbounty_inline{
+	display: inline;
+}
+
+.cartbounty-exit-intent-type{
+	float: left;
+	width: 150px;
+	margin-right: 5%;
+	margin-bottom: 30px;
+}
+
+.cartbounty-exit-intent-image{
+	display: block;
+}
+
+.cartbounty-exit-intent-image em{
+	display: block;
+	height: 100px;
+	margin-bottom: 15px;
+  	position: relative;
+  	background-color: #dedede;
+  	border-radius: 3px 3px 0px 0px;
+	-moz-border-radius: 3px 3px 0px 0px;
+	-webkit-border-radius: 3px 3px 0px 0px;
+	opacity: .7;
+	-webkit-transition: 	all .2s cubic-bezier(.38,1.09,.5,.98);
+	-webkit-transition: 	all .2s cubic-bezier(.38,1.09,.5,.98);
+	-moz-transition: 		all .2s cubic-bezier(.38,1.09,.5,.98);
+	-o-transition: 			all .2s cubic-bezier(.38,1.09,.5,.98);
+	transition: 			all .2s cubic-bezier(.38,1.09,.5,.98);
+	overflow: hidden;
+}
+
+.cartbounty-exit-intent-image i{
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	background-color: #8370f7;
+	height: 60px;
+	width: 95px;
+	border-radius: 3px 3px 3px 3px;
+	-moz-border-radius: 3px 3px 3px 3px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	z-index: 2;
+}
+
+#cartbounty-exit-intent-left .cartbounty-exit-intent-image i{
+	width: 70%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	-ms-transform: translate(0, 0);
+	transform: translate(0, 0);
+	border-radius: 3px 0px 0px 0px;
+	-moz-border-radius: 3px 0px 0px 0px;
+	-webkit-border-radius: 3px 0px 0px 0px;
+}
+
+#cartbounty-exit-intent-left.cartbounty-get-pro-active .cartbounty-exit-intent-image i{
+	left: -100%;
+}
+
+#cartbounty-exit-intent-fullscreen .cartbounty-exit-intent-image i{
+	width: 100%;
+	height: 100%;
+	border-radius: 3px 3px 0px 0px;
+	-moz-border-radius: 3px 3px 0px 0px;
+	-webkit-border-radius: 3px 3px 0px 0px;
+}
+
+#cartbounty-exit-intent-fullscreen.cartbounty-get-pro-active .cartbounty-exit-intent-image i{
+	top: -50%;
+}
+
+.cartbounty-exit-intent-image img{
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	width: 58px;
+}
+
+.cartbounty-exit-intent-colors{
+	width: 180px;
+	float: left;
+	margin-right: 3%;
+	margin-bottom: 5px;
+}
+
+.cartbounty-exit-intent-colors label{
+	margin-right: 10px;
+}
+
+#cartbounty-page-wrapper .form-table .cartbounty-exit-intent-colors .cartbounty-exit-intent-color-picker{
+	width: 70px;
+}
+
+#cartbounty-page-wrapper .form-table .cartbounty-exit-intent-colors input{
+	width: auto;
+}
+
+.cartbounty-exit-intent-colors .wp-picker-container{
+	display: inline;
+}
+
+.cartbounty-radio-active em,
+.cartbounty-exit-intent-type:hover em,
+#cartbounty-page-wrapper .cartbounty-loading.submit:after,
+.cartbounty-get-pro-active .cartbounty-exit-intent-image em{
+	opacity: 1;
+}
+
+#cartbounty-page-wrapper .submit:after{
+	background: url('../assets/spinner-2x.gif') no-repeat;
+	background-size: 16px 16px;
+	display: inline-block;
+	opacity: 0;
+	width: 16px;
+	height: 16px;
+	position: relative;
+	content: '';
+	top: 6px;
+	left: 10px;
+	vertical-align: top;
+}
+
+.cartbounty-exit-intent-additional-style{
+	display: block;
+	padding: 14px 18px;
+	font-style: normal;
+	bottom: -100%;
+	position: relative;
+	z-index: 1;
+	height: 100%;
+	background: #ffde01;
+}
+
+.cartbounty-get-pro-active .cartbounty-exit-intent-additional-style{
+	bottom: 0;
+}
+
+.cartbounty-exit-intent-type .button{
+	margin: 8px 0 0;
+	background: #23282d;
+	color: #fff;
+}
+
+@media screen and (max-width: 1200px) {
+	.woocommerce_page_cartbounty .column-time,
+	.woocommerce_page_cartbounty .column-cart_contents{
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 782px) {
+	#cartbounty-table .column-id{
+		width: 100%;
+	}
+
+	#cartbounty-page-wrapper .form-table .cartbounty-checkbox,
+	#cartbounty-page-wrapper .form-table .cartbounty-radiobutton{
+		width: 25px;
+	}
+}

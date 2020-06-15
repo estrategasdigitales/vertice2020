@@ -1,0 +1,39 @@
+.rrj-uislider-display {
+	width: 36px;
+    height: 36px;
+    border: #222;
+    color: #444;
+    background-color: #e5e5e5;
+    display: inline-block;
+    text-align: center;
+    line-height: 36px;
+}
+.rrj-uislider-display span {
+	vertical-align: middle;
+	font-weight: bold;
+}
+
+.rrj-uislider-container .rrj-uislider-holder {
+	display: inline-block;
+	height: .8em;
+	position: relative;
+	text-align: left;
+	width: 66%;
+	margin: 10px;
+	border: 1px solid #d3d3d3;
+	color: #222;
+	background-color: #fbfbfb;
+	vertical-align: middle;
+}
+.rrj-uislider-container .rrj-uislider-holder .ui-slider-handle.ui-state-default {
+	border: 1px solid #bfbfbf;
+	background: #e6e6e6;
+	font-weight: normal;
+	color: #555;
+	position: absolute;
+	z-index: 2;
+	width: 1.2em;
+	height: 1.2em;
+	cursor: pointer;
+	margin-top: -0.2em;
+}

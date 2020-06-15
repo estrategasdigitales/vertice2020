@@ -1,0 +1,48 @@
+.form-field label span {
+	font-weight: 600;
+	font-size: 1.1em;
+}
+.form-field .condlabel {
+	margin-right: 1em;
+	margin-bottom: .6em;
+	display: inline-block;
+}
+.section-head {
+	font-size: 1.15em;
+	font-weight: 700;
+	border-top: 1px solid #bbb;
+	padding-top: 1em;
+}
+.section-head:first-of-type {
+	border-top: none;
+}
+#loading-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding-top: 45vh;
+	background-color: rgba(255,255,255,.66);
+	text-align: center;
+	display: none;
+}
+.nav-tab-div {
+	display: none;
+}
+.nav-tab-div.active {
+	display: block;
+}
+#function-editor {
+	display: none;
+}
+#response-div div {
+	background-color: #fff;
+    padding: .6em;
+    color: #222;
+    font-size: 1.2em;
+    margin: .4em auto;
+}
+.CodeMirror {
+	z-index: 0;
+}

@@ -1,0 +1,925 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-05 10:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/charts.class.php:74
+msgid "Chart Initialization"
+msgstr ""
+
+#: includes/charts.class.php:394 includes/charts.class.php:395
+msgid "Charts settings"
+msgstr ""
+
+#: includes/charts.class.php:422
+msgid "Select files"
+msgstr ""
+
+#: includes/charts.class.php:423
+msgid "Select a file"
+msgstr ""
+
+#: includes/charts.class.php:424
+msgid "select"
+msgstr ""
+
+#: includes/charts.class.php:425
+msgid "invalid file type"
+msgstr ""
+
+#: includes/charts.class.php:510
+#, php-format
+msgid "%s needs %s to be installed and activated to function"
+msgstr ""
+
+#: includes/functions.php:21
+msgid "axis prefix"
+msgstr ""
+
+#: includes/functions.php:24
+msgid ""
+"String to prepend to axis labels. Useful for adding monetary signs ($, €, £) "
+"or any other units"
+msgstr ""
+
+#: includes/functions.php:32
+msgid "X axis prefix"
+msgstr ""
+
+#: includes/functions.php:33
+msgid ""
+"X axis labels prefix. Useful for adding monetary signs ($, €, £) or any "
+"other units"
+msgstr ""
+
+#: includes/functions.php:35 includes/functions.php:43
+#: includes/functions.php:55 includes/functions.php:81
+#: includes/functions.php:89 includes/functions.php:101
+#: includes/functions.php:125 includes/functions.php:138
+#: includes/functions.php:152 includes/functions.php:166
+#: includes/functions.php:174 includes/functions.php:187
+#: includes/functions.php:200 includes/functions.php:225
+#: includes/functions.php:240 includes/functions.php:255
+#: elements/bubble/bubble-chart.php:165 elements/polar/polar-chart.php:169
+#: elements/polar/polar-chart.php:187 elements/radar/radar-chart.php:180
+msgid "Chart options"
+msgstr ""
+
+#: includes/functions.php:40
+msgid "Y axis prefix"
+msgstr ""
+
+#: includes/functions.php:41
+msgid ""
+"Y axis labels prefix. Useful for adding monetary signs ($, €, £) or any "
+"other units"
+msgstr ""
+
+#: includes/functions.php:67
+msgid "axis suffix"
+msgstr ""
+
+#: includes/functions.php:70
+msgid ""
+"String to append to axis labels. Useful for adding monetary signs ($, €, £) "
+"or any other units"
+msgstr ""
+
+#: includes/functions.php:78
+msgid "X axis suffix"
+msgstr ""
+
+#: includes/functions.php:79
+msgid ""
+"X axis labels suffix. Useful for adding monetary signs ($, €, £) or any "
+"other units"
+msgstr ""
+
+#: includes/functions.php:86
+msgid "Y axis suffix"
+msgstr ""
+
+#: includes/functions.php:87
+msgid ""
+"Y axis labels suffix. Useful for adding monetary signs ($, €, £) or any "
+"other units"
+msgstr ""
+
+#: includes/functions.php:119
+msgid "Widget title position"
+msgstr ""
+
+#: includes/functions.php:121 includes/functions.php:292
+msgid "top"
+msgstr ""
+
+#: includes/functions.php:122 includes/functions.php:294
+msgid "bottom"
+msgstr ""
+
+#: includes/functions.php:130
+msgid "Title alignment"
+msgstr ""
+
+#: includes/functions.php:132 includes/functions.php:295
+msgid "left"
+msgstr ""
+
+#: includes/functions.php:133
+msgid "center"
+msgstr ""
+
+#: includes/functions.php:134 includes/functions.php:293
+msgid "right"
+msgstr ""
+
+#: includes/functions.php:135
+msgid "auto"
+msgstr ""
+
+#: includes/functions.php:143
+msgid "HTML tag used for the widget title the title"
+msgstr ""
+
+#: includes/functions.php:163
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/functions.php:170
+msgid "Custom aspect ratio"
+msgstr ""
+
+#: includes/functions.php:173
+#, php-format
+msgid ""
+"If set, the value of the dropdow above will be ignored. (%s width : height "
+"%s)"
+msgstr ""
+
+#: includes/functions.php:184
+msgid "Grid and axes color"
+msgstr ""
+
+#: includes/functions.php:197
+msgid "No thousand separator"
+msgstr ""
+
+#: includes/functions.php:198
+msgid "Do not use thousand separator (if any) on this chart"
+msgstr ""
+
+#: includes/functions.php:199 includes/functions.php:224
+#: includes/functions.php:239 includes/functions.php:254
+#: includes/functions.php:281 includes/functions.php:320
+#: includes/functions.php:330 elements/bar/bar-chart.php:105
+#: elements/bar/bar-chart.php:178 elements/bubble/bubble-chart.php:137
+#: elements/bubble/bubble-chart.php:164 elements/line/line-chart.php:94
+#: elements/line/line-chart.php:233 elements/radar/radar-chart.php:144
+msgid "yes"
+msgstr ""
+
+#: includes/functions.php:208
+msgid "Force Y axis to start at zero"
+msgstr ""
+
+#: includes/functions.php:209
+msgid "Y axis starts at zero"
+msgstr ""
+
+#: includes/functions.php:237
+msgid "Y axis labels"
+msgstr ""
+
+#: includes/functions.php:238
+msgid "Show Y axis labels"
+msgstr ""
+
+#: includes/functions.php:252 elements/bar/bar-chart.php:97
+#: elements/line/line-chart.php:85
+msgid "X axis labels"
+msgstr ""
+
+#: includes/functions.php:253
+msgid "Show X axis labels"
+msgstr ""
+
+#: includes/functions.php:280
+msgid "Enable legends"
+msgstr ""
+
+#: includes/functions.php:283 includes/functions.php:298
+#: includes/functions.php:311 includes/functions.php:322
+#: includes/functions.php:332 includes/functions.php:345
+msgid "Tooltips and Legends"
+msgstr ""
+
+#: includes/functions.php:290
+msgid "Legends position"
+msgstr ""
+
+#: includes/functions.php:305
+msgid "Legends style"
+msgstr ""
+
+#: includes/functions.php:307 elements/line/line-chart.php:177
+#: elements/line/line-chart.php:212
+msgid "normal"
+msgstr ""
+
+#: includes/functions.php:308
+msgid "use point style"
+msgstr ""
+
+#: includes/functions.php:318
+msgid "Click on legends"
+msgstr ""
+
+#: includes/functions.php:319
+msgid "Hide dataset on click on legend"
+msgstr ""
+
+#: includes/functions.php:329
+msgid "Enable Tooltips"
+msgstr ""
+
+#: includes/functions.php:339
+msgid "Tooltips mode"
+msgstr ""
+
+#: includes/functions.php:341
+msgid "highlight single element"
+msgstr ""
+
+#: includes/functions.php:342
+msgid "highlight elements at the same index"
+msgstr ""
+
+#: includes/functions.php:358
+msgid "Custom JavaScript options"
+msgstr ""
+
+#: includes/functions.php:360
+msgid "Custom JS options"
+msgstr ""
+
+#: includes/functions.php:361
+msgid "Custom options (will take precedence over the other fields)"
+msgstr ""
+
+#: includes/functions.php:374
+msgid "Custom JavaScript data"
+msgstr ""
+
+#: includes/functions.php:376 includes/functions.php:384
+msgid "Custom JS data"
+msgstr ""
+
+#: includes/functions.php:377
+msgid "Custom chart data function"
+msgstr ""
+
+#: includes/functions.php:383
+msgid "Preloader image"
+msgstr ""
+
+#: includes/functions.php:385
+msgid "Alternative preloader image (typically a small animated .gif image)"
+msgstr ""
+
+#: includes/importer.php:8
+msgid "Choose file"
+msgstr ""
+
+#: includes/importer.php:16
+msgid "Data set orientation"
+msgstr ""
+
+#: includes/importer.php:18
+msgid "Rows as data sets"
+msgstr ""
+
+#: includes/importer.php:19
+msgid "Columns as data sets"
+msgstr ""
+
+#: includes/importer.php:24
+msgid "Headers"
+msgstr ""
+
+#: includes/importer.php:26
+msgid "First row as labels (first column for set in columns)"
+msgstr ""
+
+#: includes/importer.php:27
+msgid "Skip the firt row (first column for set in columns)"
+msgstr ""
+
+#: includes/importer.php:28
+msgid "No header"
+msgstr ""
+
+#: includes/importer.php:33 elements/bar/bar-chart.php:264
+#: elements/bubble/bubble-chart.php:193 elements/line/line-chart.php:278
+#: elements/radar/radar-chart.php:208
+msgid "Import data"
+msgstr ""
+
+#: includes/importer.php:37
+msgid "Imported data"
+msgstr ""
+
+#: includes/importer.php:40
+msgid ""
+"imported dataset count does not match the dataset count in the \"General\" "
+"tab"
+msgstr ""
+
+#: includes/importer.php:43 elements/radar/radar-chart.php:84
+msgid "Labels"
+msgstr ""
+
+#: includes/importer.php:45
+msgid "Data sets"
+msgstr ""
+
+#: includes/importer.php:48
+msgid "Clear data"
+msgstr ""
+
+#: includes/metabox.php:14
+msgid "Override default setting"
+msgstr ""
+
+#: includes/metabox.php:16
+msgid "If checked, blog wide setting will be ignored on this page"
+msgstr ""
+
+#: includes/metabox.php:17
+msgid "Delay"
+msgstr ""
+
+#: includes/metabox.php:19 includes/settings-page.php:42
+msgid ""
+"Delay (relative to the chart's real time height) after which a chart will be "
+"initialized."
+msgstr ""
+
+#: includes/settings-page.php:5
+msgid "empty"
+msgstr ""
+
+#: includes/settings-page.php:8
+msgid "blank space(s)"
+msgstr ""
+
+#: includes/settings-page.php:15
+msgid "Default Charts Settings"
+msgstr ""
+
+#: includes/settings-page.php:19
+msgid "Axes and grid color"
+msgstr ""
+
+#: includes/settings-page.php:23
+msgid "Use global axis and grid color"
+msgstr ""
+
+#: includes/settings-page.php:25
+msgid ""
+"Ignore individual chart settings and use the color below for all chart axes "
+"and grid"
+msgstr ""
+
+#: includes/settings-page.php:28
+msgid "Font family"
+msgstr ""
+
+#: includes/settings-page.php:31
+msgid "Default font family for all charts."
+msgstr ""
+
+#: includes/settings-page.php:32
+msgid ""
+"If it&#39;s a web font (like Google Fonts), it must be loaded elsewhere "
+"(from the current theme or an active plugin)."
+msgstr ""
+
+#: includes/settings-page.php:34
+msgid "Thousand separator"
+msgstr ""
+
+#: includes/settings-page.php:37
+#, php-format
+msgid ""
+"This separator will be applied to all axes and all tooltips. Leave empty to "
+"not use it. Currently %s"
+msgstr ""
+
+#: includes/settings-page.php:39
+msgid "Chart initialization"
+msgstr ""
+
+#: includes/settings-page.php:43
+msgid ""
+"0 corresponds the the instant while the chart in entering the screen, and "
+"100 the instant while the bottom of the chart is visible on the screen"
+msgstr ""
+
+#: includes/settings-page.php:46
+msgid "Save Changes"
+msgstr ""
+
+#: includes/settings-page.php:47
+msgid "Restore defaults"
+msgstr ""
+
+#: elements/bar/bar-chart.php:34 elements/bar/bar-chart.php:80
+msgid "Advanced Bar Chart"
+msgstr ""
+
+#: elements/bar/bar-chart.php:35
+msgid "Draw a bar chart"
+msgstr ""
+
+#: elements/bar/bar-chart.php:78 elements/bubble/bubble-chart.php:68
+#: elements/line/line-chart.php:78 elements/pie/pie-chart.php:77
+#: elements/polar/polar-chart.php:77 elements/radar/radar-chart.php:77
+msgid "Widget title"
+msgstr ""
+
+#: elements/bar/bar-chart.php:86
+msgid "Bars Orientation"
+msgstr ""
+
+#: elements/bar/bar-chart.php:88
+msgid "horizontal"
+msgstr ""
+
+#: elements/bar/bar-chart.php:89
+msgid "vertical"
+msgstr ""
+
+#: elements/bar/bar-chart.php:98
+#, php-format
+msgid ""
+"list of X axis labels, Y-axis for horizontal bars (separate labels with "
+"\"%s\")."
+msgstr ""
+
+#: elements/bar/bar-chart.php:104
+msgid "Stacked bars"
+msgstr ""
+
+#: elements/bar/bar-chart.php:107
+msgid "stack bars at the same X value (Y for horizontal bars)"
+msgstr ""
+
+#: elements/bar/bar-chart.php:112
+msgid "Stacked bars mode"
+msgstr ""
+
+#: elements/bar/bar-chart.php:114
+msgid "stack bars on the X or Y axis"
+msgstr ""
+
+#: elements/bar/bar-chart.php:115
+msgid "stack bars on each other"
+msgstr ""
+
+#: elements/bar/bar-chart.php:122 elements/bubble/bubble-chart.php:76
+#: elements/line/line-chart.php:100 elements/radar/radar-chart.php:91
+msgid "Datasets"
+msgstr ""
+
+#: elements/bar/bar-chart.php:125 elements/bubble/bubble-chart.php:79
+#: elements/line/line-chart.php:104
+msgid "One"
+msgstr ""
+
+#: elements/bar/bar-chart.php:137 elements/bubble/bubble-chart.php:98
+#: elements/line/line-chart.php:131 elements/pie/pie-chart.php:119
+#: elements/polar/polar-chart.php:124 elements/radar/radar-chart.php:117
+msgid "Title"
+msgstr ""
+
+#: elements/bar/bar-chart.php:139 elements/bubble/bubble-chart.php:100
+#: elements/line/line-chart.php:133
+msgid "dataset title used in tooltips and legends."
+msgstr ""
+
+#: elements/bar/bar-chart.php:145 elements/bubble/bubble-chart.php:106
+#: elements/line/line-chart.php:139 elements/pie/pie-chart.php:85
+#: elements/polar/polar-chart.php:85 elements/radar/radar-chart.php:129
+msgid "Tooltips text format"
+msgstr ""
+
+#: elements/bar/bar-chart.php:147 elements/line/line-chart.php:141
+msgid ""
+"text format for the tooltip (available placeholders: {d} dataset title, {x} "
+"X axis label, {y} Y axis value)"
+msgstr ""
+
+#: elements/bar/bar-chart.php:151 elements/bubble/bubble-chart.php:112
+#: elements/line/line-chart.php:145 elements/radar/radar-chart.php:136
+msgid "Values"
+msgstr ""
+
+#: elements/bar/bar-chart.php:154
+#, php-format
+msgid "enter values (separate values with \"%s\")."
+msgstr ""
+
+#: elements/bar/bar-chart.php:158 elements/bubble/bubble-chart.php:118
+#: elements/line/line-chart.php:152
+msgid "Dataset color"
+msgstr ""
+
+#: elements/bar/bar-chart.php:165
+msgid "Bar background"
+msgstr ""
+
+#: elements/bar/bar-chart.php:167 elements/bubble/bubble-chart.php:127
+#: elements/line/line-chart.php:199 elements/pie/pie-chart.php:174
+#: elements/polar/polar-chart.php:165
+msgid "partially transparent"
+msgstr ""
+
+#: elements/bar/bar-chart.php:168 elements/bubble/bubble-chart.php:128
+#: elements/line/line-chart.php:200 elements/pie/pie-chart.php:175
+#: elements/polar/polar-chart.php:166
+msgid "plain color"
+msgstr ""
+
+#: elements/bar/bar-chart.php:176 elements/bubble/bubble-chart.php:135
+#: elements/line/line-chart.php:231 elements/radar/radar-chart.php:142
+msgid "Hidden on load"
+msgstr ""
+
+#: elements/bar/bar-chart.php:177 elements/bubble/bubble-chart.php:136
+#: elements/line/line-chart.php:232 elements/radar/radar-chart.php:143
+msgid ""
+"this dataset will be hidden on load until the corresponding legend is "
+"clicked on"
+msgstr ""
+
+#: elements/bar/bar-chart.php:183
+msgid "Group ID"
+msgstr ""
+
+#: elements/bar/bar-chart.php:186
+msgid "bars corresponding to each group will be stacked together"
+msgstr ""
+
+#: elements/bar/bar-chart.php:196
+msgid "X axis label width percentage (Y axis for horizontal bars)"
+msgstr ""
+
+#: elements/bar/bar-chart.php:197 elements/bar/bar-chart.php:208
+msgid "Bars settings"
+msgstr ""
+
+#: elements/bar/bar-chart.php:202
+msgid "Amount of available width taken by each label"
+msgstr ""
+
+#: elements/bar/bar-chart.php:207
+msgid "Bar width percentage"
+msgstr ""
+
+#: elements/bar/bar-chart.php:213
+msgid "Amount of available width taken by bars (within each X or Y axis label)"
+msgstr ""
+
+#: elements/bar/bar-chart.php:228
+msgid "Force Y axis (X axis for horizontal bars) to start at zero"
+msgstr ""
+
+#: elements/bar/bar-chart.php:244
+msgid "Css"
+msgstr ""
+
+#: elements/bar/bar-chart.php:246 elements/bubble/bubble-chart.php:175
+#: elements/line/line-chart.php:260 elements/pie/pie-chart.php:199
+#: elements/polar/polar-chart.php:197 elements/radar/radar-chart.php:190
+msgid "Design options"
+msgstr ""
+
+#: elements/bar/bar-chart.php:266 elements/bubble/bubble-chart.php:195
+#: elements/line/line-chart.php:280 elements/radar/radar-chart.php:210
+msgid "Import data from a CSV file"
+msgstr ""
+
+#: elements/bar/template.php:192 elements/bubble/template.php:159
+#: elements/line/template.php:217 elements/pie/template.php:118
+#: elements/polar/template.php:136 elements/radar/template.php:145
+#, php-format
+msgid "Error in custom chart options. Chart ID: \"%s\""
+msgstr ""
+
+#: elements/bar/template.php:208 elements/bubble/template.php:175
+#: elements/line/template.php:233 elements/pie/template.php:134
+#: elements/polar/template.php:152 elements/radar/template.php:161
+#, php-format
+msgid "Error in custom chart data. Chart ID: \"%s\""
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:34
+msgid "Draw a bubble chart"
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:70
+msgid "Bubble Chart"
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:87 elements/line/line-chart.php:116
+msgid "Two"
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:108
+msgid ""
+"text format for the tooltip (available placeholders: {d} dataset title, {x} "
+"X value, {y} Y value, {r} R value, {n} line break)"
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:114
+#, php-format
+msgid "values in the format %s"
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:124
+msgid "Bubble color"
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:125
+msgid "how to fill bubbles"
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:162
+msgid "X axis starts at zero"
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:163
+msgid "Force X axis to start at zero"
+msgstr ""
+
+#: elements/bubble/bubble-chart.php:173 elements/line/line-chart.php:258
+#: elements/pie/pie-chart.php:197 elements/polar/polar-chart.php:195
+#: elements/radar/radar-chart.php:188
+msgid "CSS"
+msgstr ""
+
+#: elements/line/line-chart.php:34 elements/line/line-chart.php:80
+msgid "Advanced Line Chart"
+msgstr ""
+
+#: elements/line/line-chart.php:35
+msgid "Draw a line chart"
+msgstr ""
+
+#: elements/line/line-chart.php:87
+#, php-format
+msgid "list of labels for X axis (separate labels with \"%s\")."
+msgstr ""
+
+#: elements/line/line-chart.php:93
+msgid "stacked"
+msgstr ""
+
+#: elements/line/line-chart.php:96
+msgid "stack entries at the same X value, useful for stacked area charts"
+msgstr ""
+
+#: elements/line/line-chart.php:148
+#, php-format
+msgid "enter values for Y axis (separate values with \"%s\")"
+msgstr ""
+
+#: elements/line/line-chart.php:158
+msgid "Point Style"
+msgstr ""
+
+#: elements/line/line-chart.php:160 elements/line/line-chart.php:176
+#: elements/line/line-chart.php:201
+msgid "none"
+msgstr ""
+
+#: elements/line/line-chart.php:161
+msgid "circle"
+msgstr ""
+
+#: elements/line/line-chart.php:162
+msgid "triangle"
+msgstr ""
+
+#: elements/line/line-chart.php:163
+msgid "rectangle"
+msgstr ""
+
+#: elements/line/line-chart.php:164
+msgid "rotated rectangle"
+msgstr ""
+
+#: elements/line/line-chart.php:165
+msgid "cross"
+msgstr ""
+
+#: elements/line/line-chart.php:166
+msgid "rotated cross"
+msgstr ""
+
+#: elements/line/line-chart.php:167
+msgid "star"
+msgstr ""
+
+#: elements/line/line-chart.php:174
+msgid "Line type"
+msgstr ""
+
+#: elements/line/line-chart.php:178
+msgid "stepped"
+msgstr ""
+
+#: elements/line/line-chart.php:185
+msgid "Line style"
+msgstr ""
+
+#: elements/line/line-chart.php:187
+msgid "solid"
+msgstr ""
+
+#: elements/line/line-chart.php:188
+msgid "dashed"
+msgstr ""
+
+#: elements/line/line-chart.php:189
+msgid "dotted"
+msgstr ""
+
+#: elements/line/line-chart.php:196
+msgid "Area filling"
+msgstr ""
+
+#: elements/line/line-chart.php:197
+msgid "how to fill the area below the line"
+msgstr ""
+
+#: elements/line/line-chart.php:208
+msgid "Thickness"
+msgstr ""
+
+#: elements/line/line-chart.php:209
+msgid "line and points thickness"
+msgstr ""
+
+#: elements/line/line-chart.php:211
+msgid "thin"
+msgstr ""
+
+#: elements/line/line-chart.php:213
+msgid "thick"
+msgstr ""
+
+#: elements/line/line-chart.php:214
+msgid "thicker"
+msgstr ""
+
+#: elements/line/line-chart.php:221
+msgid "Line tension"
+msgstr ""
+
+#: elements/line/line-chart.php:226
+#, php-format
+msgid "tension of the line ( %s100%s for a straight line )"
+msgstr ""
+
+#: elements/pie/pie-chart.php:33
+msgid "Pie & Doughnut Chart"
+msgstr ""
+
+#: elements/pie/pie-chart.php:34
+msgid "Draw a pie or doughnut chart"
+msgstr ""
+
+#: elements/pie/pie-chart.php:79
+msgid "Doughnut Chart"
+msgstr ""
+
+#: elements/pie/pie-chart.php:87 elements/polar/polar-chart.php:87
+msgid ""
+"text format for the tooltip (available placeholders: {d} the segment title, "
+"{y} the segment value)"
+msgstr ""
+
+#: elements/pie/pie-chart.php:91 elements/polar/polar-chart.php:91
+msgid "Data"
+msgstr ""
+
+#: elements/pie/pie-chart.php:120 elements/polar/polar-chart.php:125
+#: elements/radar/radar-chart.php:118
+msgid "the title used for tooltips and legends"
+msgstr ""
+
+#: elements/pie/pie-chart.php:126 elements/polar/polar-chart.php:131
+#: elements/radar/radar-chart.php:124
+msgid "Color"
+msgstr ""
+
+#: elements/pie/pie-chart.php:131 elements/polar/polar-chart.php:136
+msgid "Value"
+msgstr ""
+
+#: elements/pie/pie-chart.php:139
+msgid "Cutting percentage"
+msgstr ""
+
+#: elements/pie/pie-chart.php:140
+msgid ""
+"amount of the inner surface to be cut off (0 for pie and 80 for example for "
+"a doughnut)"
+msgstr ""
+
+#: elements/pie/pie-chart.php:145 elements/pie/pie-chart.php:156
+#: elements/pie/pie-chart.php:167 elements/pie/pie-chart.php:178
+msgid "Disc settings"
+msgstr ""
+
+#: elements/pie/pie-chart.php:150
+msgid "Circumference percentage"
+msgstr ""
+
+#: elements/pie/pie-chart.php:151
+msgid "whether to draw an entire disc or just a segment of it"
+msgstr ""
+
+#: elements/pie/pie-chart.php:161
+msgid "Start angle"
+msgstr ""
+
+#: elements/pie/pie-chart.php:162
+msgid "starting angle in degrees"
+msgstr ""
+
+#: elements/pie/pie-chart.php:172 elements/polar/polar-chart.php:163
+msgid "Segments background"
+msgstr ""
+
+#: elements/pie/pie-chart.php:179 elements/polar/polar-chart.php:170
+msgid "how to fill chart segments"
+msgstr ""
+
+#: elements/polar/polar-chart.php:33 elements/polar/polar-chart.php:79
+msgid "Polar Area Chart"
+msgstr ""
+
+#: elements/polar/polar-chart.php:34
+msgid "Draw a polar area chart"
+msgstr ""
+
+#: elements/polar/polar-chart.php:184 elements/radar/radar-chart.php:177
+msgid "Y axis labels background"
+msgstr ""
+
+#: elements/radar/radar-chart.php:33 elements/radar/radar-chart.php:79
+msgid "Radar Chart"
+msgstr ""
+
+#: elements/radar/radar-chart.php:34
+msgid "Draw a radar chart"
+msgstr ""
+
+#: elements/radar/radar-chart.php:87
+#, php-format
+msgid ""
+"labels of the points of comparison between datasets (separate values with "
+"\"%s\")"
+msgstr ""
+
+#: elements/radar/radar-chart.php:131
+msgid ""
+"text format for the tooltip (available placeholders: {d} dataset title, {y} "
+"point value)"
+msgstr ""
+
+#: elements/radar/radar-chart.php:137
+#, php-format
+msgid "enter values for dataset (separate values with \"%s\")"
+msgstr ""
+
+#. Name of the plugin
+msgid "Advanced Charts for WPBackery Page Builder"
+msgstr ""
+
+#. Description of the plugin
+msgid "Advanced chart elements for WPBackery Page Builder"
+msgstr ""

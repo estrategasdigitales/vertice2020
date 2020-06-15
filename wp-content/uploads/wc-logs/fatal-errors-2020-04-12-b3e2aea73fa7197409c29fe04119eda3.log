@@ -1,0 +1,20 @@
+2020-04-12T20:40:57+00:00 CRITICAL Call to a member function is_type() on null en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 17
+
+2020-04-12T21:01:27+00:00 CRITICAL Uncaught exception 'Exception' with message 'Producto no válido.' in /Applications/MAMP/htdocs/mool/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php:163
+Stack trace:
+#0 /Applications/MAMP/htdocs/mool/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Product_Data_Store_CPT->read(Object(WC_Product_Variable))
+#1 /Applications/MAMP/htdocs/mool/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(135): WC_Data_Store->read(Object(WC_Product_Variable))
+#2 /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php(7): WC_Product->__construct(9)
+#3 /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php(47): get_variation_price_by_id(9, 15)
+#4 /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/functions.php(80): include('/Applications/M...')
+#5 [internal function]: shortcode_productoshome('', '', 'slider-producto...' en /Applications/MAMP/htdocs/mool/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php en la línea 163
+
+2020-04-12T21:01:52+00:00 CRITICAL Uncaught exception 'Exception' with message 'Producto no válido.' in /Applications/MAMP/htdocs/mool/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php:163
+Stack trace:
+#0 /Applications/MAMP/htdocs/mool/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Product_Data_Store_CPT->read(Object(WC_Product_Variable))
+#1 /Applications/MAMP/htdocs/mool/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(135): WC_Data_Store->read(Object(WC_Product_Variable))
+#2 /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php(7): WC_Product->__construct(9)
+#3 /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php(47): get_variation_price_by_id(9, 15)
+#4 /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/functions.php(80): include('/Applications/M...')
+#5 [internal function]: shortcode_productoshome('', '', 'slider-producto...' en /Applications/MAMP/htdocs/mool/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php en la línea 163
+

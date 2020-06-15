@@ -1,0 +1,22 @@
+2020-04-11T05:09:21+00:00 CRITICAL syntax error, unexpected '.' en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php en la línea 16
+
+2020-04-11T20:02:35+00:00 CRITICAL Call to undefined function the_price() en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 21
+
+2020-04-11T20:04:17+00:00 CRITICAL Call to undefined function the_price() en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 15
+
+2020-04-11T20:21:28+00:00 CRITICAL Cannot redeclare woocommerce_subcats_from_parentcat_by_NAME() (previously declared in /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php:2) en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php en la línea 24
+
+2020-04-11T20:23:27+00:00 CRITICAL Cannot redeclare woocommerce_subcats_from_parentcat_by_NAME() (previously declared in /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php:2) en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php en la línea 24
+
+2020-04-11T22:07:52+00:00 CRITICAL Object of class WP_Error could not be converted to string en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 18
+
+2020-04-11T22:08:54+00:00 CRITICAL syntax error, unexpected '$image' (T_VARIABLE) en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 12
+
+2020-04-11T22:10:23+00:00 CRITICAL syntax error, unexpected '...' (T_ELLIPSIS), expecting ')' en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 5
+
+2020-04-11T22:14:02+00:00 CRITICAL Cannot redeclare woocommerce_subcats_from_parentcat_by_NAME() (previously declared in /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php:1) en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php en la línea 23
+
+2020-04-11T22:18:41+00:00 CRITICAL Cannot redeclare woocommerce_subcats_from_parentcat_by_NAME() (previously declared in /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php:1) en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php en la línea 23
+
+2020-04-11T22:19:01+00:00 CRITICAL Cannot redeclare woocommerce_subcats_from_parentcat_by_NAME() (previously declared in /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php:1) en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-categoriashome.php en la línea 23
+

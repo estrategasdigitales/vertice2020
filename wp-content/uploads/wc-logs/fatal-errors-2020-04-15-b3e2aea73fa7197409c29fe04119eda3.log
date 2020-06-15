@@ -1,0 +1,74 @@
+2020-04-15T03:02:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/cache.php en la línea 679
+
+2020-04-15T03:02:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 576 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/wp-db.php en la línea 2007
+
+2020-04-15T03:03:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 3072 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/query-filtering/class-wpml-term-query-filter.php en la línea 59
+
+2020-04-15T03:03:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 80 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/wp-db.php en la línea 2610
+
+2020-04-15T03:04:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/wp-db.php en la línea 2610
+
+2020-04-15T03:04:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 80 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/wp-db.php en la línea 2610
+
+2020-04-15T03:04:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/wp-db.php en la línea 2610
+
+2020-04-15T03:04:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/wp-db.php en la línea 2610
+
+2020-04-15T03:04:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:05:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 115 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/yith-woocommerce-ajax-search-premium/plugin-fw/lib/privacy/yit-privacy.php en la línea 51
+
+2020-04-15T03:05:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:05:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 3072 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/vendor/composer/ClassLoader.php en la línea 444
+
+2020-04-15T03:05:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:06:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:06:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:07:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 3072 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/vendor/composer/ClassLoader.php en la línea 444
+
+2020-04-15T03:07:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:07:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:07:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:08:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 3072 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/yith-woocommerce-ajax-search-premium/plugin-fw/lib/privacy/yit-privacy.php en la línea 51
+
+2020-04-15T03:09:53+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:09:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:10:00+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:10:13+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:10:18+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:10:23+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:10:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 82190 bytes) en /Applications/MAMP/htdocs/mool/wp-includes/functions.php en la línea 3582
+
+2020-04-15T03:10:44+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:11:01+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:11:27+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:11:39+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:11:47+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:12:06+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:12:23+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:13:06+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:27:56+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+
+2020-04-15T03:28:33+00:00 CRITICAL Method WPML_Admin_Menu_Item::__toString() must return a string value en /Applications/MAMP/htdocs/mool/wp-content/plugins/sitepress-multilingual-cms/classes/admin-menu/class-wpml-admin-menu-root.php en la línea 78
+

@@ -1,0 +1,12 @@
+2020-06-08T00:03:21+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /Applications/MAMP/htdocs/verticeindustrial/wp-content/themes/visual-composer-starter-child/header.php:90
+Stack trace:
+#0 /Applications/MAMP/htdocs/verticeindustrial/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/verticeindustrial/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/verticeindustrial/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/verticeindustrial/wp-content/themes/visual-composer-starter-child/page.php(10): get_header()
+#4 /Applications/MAMP/htdocs/verticeindustrial/wp-includes/template-loader.php(78): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/verticeindustrial/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/verticeindustrial/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown en /Applications/MAMP/htdocs/verticeindustrial/wp-content/themes/visual-composer-starter-child/header.php en la línea 90
+

@@ -1,0 +1,86 @@
+2020-05-11T00:57:15+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(725): require()
+#1 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(672): load_template('/Applications/M...', false)
+#2 /Applications/MAMP/htdocs/muebleria/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/search.php(33): get_template_part('template-parts/...', '')
+#4 /Applications/MAMP/htdocs/muebleria/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/muebleria/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/muebleria/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown en /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php en la línea 18
+
+2020-05-11T00:58:14+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(725): require()
+#1 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(672): load_template('/Applications/M...', false)
+#2 /Applications/MAMP/htdocs/muebleria/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/search.php(33): get_template_part('template-parts/...', '')
+#4 /Applications/MAMP/htdocs/muebleria/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/muebleria/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/muebleria/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown en /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php en la línea 22
+
+2020-05-11T00:59:41+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(725): require()
+#1 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(672): load_template('/Applications/M...', false)
+#2 /Applications/MAMP/htdocs/muebleria/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/search.php(33): get_template_part('template-parts/...', '')
+#4 /Applications/MAMP/htdocs/muebleria/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/muebleria/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/muebleria/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown en /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php en la línea 22
+
+2020-05-11T01:00:22+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(725): require()
+#1 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(672): load_template('/Applications/M...', false)
+#2 /Applications/MAMP/htdocs/muebleria/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/search.php(33): get_template_part('template-parts/...', '')
+#4 /Applications/MAMP/htdocs/muebleria/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/muebleria/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/muebleria/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown en /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php en la línea 22
+
+2020-05-11T01:00:45+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(725): require()
+#1 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(672): load_template('/Applications/M...', false)
+#2 /Applications/MAMP/htdocs/muebleria/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/search.php(33): get_template_part('template-parts/...', '')
+#4 /Applications/MAMP/htdocs/muebleria/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/muebleria/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/muebleria/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown en /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php en la línea 22
+
+2020-05-11T01:36:42+00:00 CRITICAL syntax error, unexpected ';', expecting ',' or ')' en /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php en la línea 14
+
+2020-05-11T01:37:47+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php:19
+Stack trace:
+#0 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(725): require()
+#1 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(672): load_template('/Applications/M...', false)
+#2 /Applications/MAMP/htdocs/muebleria/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/search.php(33): get_template_part('template-parts/...', '')
+#4 /Applications/MAMP/htdocs/muebleria/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/muebleria/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/muebleria/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown en /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php en la línea 19
+
+2020-05-11T01:46:55+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on boolean in /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php:19
+Stack trace:
+#0 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(725): require()
+#1 /Applications/MAMP/htdocs/muebleria/wp-includes/template.php(672): load_template('/Applications/M...', false)
+#2 /Applications/MAMP/htdocs/muebleria/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/search.php(33): get_template_part('template-parts/...', '')
+#4 /Applications/MAMP/htdocs/muebleria/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/muebleria/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/muebleria/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown en /Applications/MAMP/htdocs/muebleria/wp-content/themes/visual-composer-starter-child/template-parts/content.php en la línea 19
+

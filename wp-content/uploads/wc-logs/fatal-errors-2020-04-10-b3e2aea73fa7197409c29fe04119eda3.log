@@ -1,0 +1,8 @@
+2020-04-10T20:20:59+00:00 CRITICAL Cannot redeclare shortcode_postshome() (previously declared in /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/functions.php:54) en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/functions.php en la línea 71
+
+2020-04-10T20:21:14+00:00 CRITICAL Cannot redeclare shortcode_postshome() (previously declared in /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/functions.php:54) en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/functions.php en la línea 71
+
+2020-04-10T20:21:43+00:00 CRITICAL Cannot redeclare shortcode_postshome() (previously declared in /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/functions.php:54) en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/functions.php en la línea 71
+
+2020-04-10T20:31:19+00:00 CRITICAL Call to undefined function the_thumbnail() en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 19
+

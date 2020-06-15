@@ -1,0 +1,156 @@
+2020-04-16T03:33:07+00:00 CRITICAL syntax error, unexpected ''max'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 35
+
+2020-04-16T03:40:33+00:00 CRITICAL Class 'wc_get_product' not found en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 10
+
+2020-04-16T03:40:57+00:00 CRITICAL Class 'wc_get_product' not found en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 10
+
+2020-04-16T03:41:26+00:00 CRITICAL Call to a member function get_price_html() on boolean en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 14
+
+2020-04-16T03:41:37+00:00 CRITICAL Call to a member function get_price_html() on boolean en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 14
+
+2020-04-16T03:59:09+00:00 CRITICAL Call to undefined method WC_Product_Variable::the_post_thumbnail() en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 14
+
+2020-04-16T03:59:22+00:00 CRITICAL Call to undefined method WC_Product_Variable::the_title() en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 16
+
+2020-04-16T04:00:32+00:00 CRITICAL Call to undefined method WP_Post::the_post_thumbnail() en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 14
+
+2020-04-16T04:06:16+00:00 CRITICAL syntax error, unexpected 'post_thumbnail' (T_STRING), expecting ',' or ';' en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 16
+
+2020-04-16T04:06:23+00:00 CRITICAL Call to undefined method WP_Post::the_post_thumbnail() en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 16
+
+2020-04-16T04:16:01+00:00 CRITICAL Call to a member function get_product_id() on null en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 17
+
+2020-04-16T04:16:25+00:00 CRITICAL Call to undefined method WP_Post::get_product_id() en /Applications/MAMP/htdocs/mool/wp-content/themes/visual-composer-starter-child/slider-productoshome.php en la línea 17
+
+2020-04-16T13:44:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:44:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:44:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:45:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:45:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:45:17+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:46:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:46:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:46:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:46:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:46:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T13:46:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:00:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:01:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:01:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:01:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 826
+
+2020-04-16T14:01:20+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:01:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:04:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:04:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:04:10+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:04:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 826
+
+2020-04-16T14:04:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:04:30+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 826
+
+2020-04-16T14:08:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:08:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:08:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:08:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:08:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:08:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:10:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:10:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:10:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:10:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:10:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:10:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:14:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:14:39+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:14:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:14:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:14:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:15:03+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:31:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275720 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 1766
+
+2020-04-16T14:31:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:32:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:32:08+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:32:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:32:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:53:25+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:53:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 749966 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:53:34+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 749966 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:53:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 749966 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:53:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 749966 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:53:59+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:58:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 275801 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database.php en la línea 843
+
+2020-04-16T14:58:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:58:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:58:34+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:58:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T14:58:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T15:37:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T15:37:30+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T15:37:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T15:37:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T15:37:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-04-16T15:37:55+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1381223 bytes) en /Applications/MAMP/htdocs/mool/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+

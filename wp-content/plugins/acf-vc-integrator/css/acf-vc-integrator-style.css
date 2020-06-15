@@ -1,0 +1,126 @@
+.wpb_acf_vc_integrator.wpb_content_element .vc_admin_label, .wpb_acf_vc_grid.wpb_content_element .vc_admin_label {
+    width: 100%;
+    display: block;
+}
+
+.wpb_acf_vc_integrator .vc_general.vc_element-icon {
+    margin-bottom: 8px;
+}
+
+.wpb_acf_vc_integrator.wpb_content_element .admin_label_get_field_data_from label,
+.wpb_acf_vc_integrator.wpb_content_element .admin_label_field_group label,
+.wpb_acf_vc_integrator.wpb_content_element .admin_label_hidden_field_name label,
+.wpb_acf_vc_grid.wpb_content_element .admin_label_get_field_data_from label,
+.wpb_acf_vc_grid.wpb_content_element .admin_label_field_group label,
+.wpb_acf_vc_grid.wpb_content_element .admin_label_hidden_field_name label {
+        font-weight: bold;
+}
+
+.vc_sw-align-right {
+    text-align: right;
+}
+.vc_sw-align-center {
+    text-align: center;
+}
+.vc_sw-align-justify {
+    text-align: justify;
+}
+.repeater-wrapper, .repeater-child-wrapper {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    display: table;
+}
+.reapeater-row, .repeater-header {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    display: table-row;
+}
+.reapeter-column, .repeater-header .column {
+    border: 1px solid #f1f1f1;
+    display: table-cell;
+}
+
+
+.placeDiv {
+    z-index: 9999;
+    position: absolute;
+  }
+  
+  .map-container {
+    position: relative;
+  }
+  
+  .placecard__container {
+    box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px;
+    max-width: 330px;
+    width: 100%;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal normal normal 11px / normal Roboto, Arial, sans-serif;
+    margin: 10px;
+    padding: 9px 4px 9px 11px;
+    overflow: hidden;
+}
+
+.placecard__left {
+    float: left;
+    width: 75%;
+}
+
+.placecard__right {
+    text-align: center;
+    float: left;
+    width: 25%;
+}
+
+.placecard__business-name {
+    cursor: default;
+    height: 19px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 200px;
+    perspective-origin: 100px 9.5px;
+    transform-origin: 100px 9.5px;
+    font: normal normal 500 normal 14px / normal Roboto, Arial;
+    overflow: hidden;
+    margin: 0;
+}
+
+.placecard__info {
+    color: rgb(91, 91, 91);
+    cursor: default;
+    height: 32px;
+    width: 200px;
+    column-rule-color: rgb(91, 91, 91);
+    perspective-origin: 100px 16px;
+    transform-origin: 100px 16px;
+    border: 0px none rgb(91, 91, 91);
+    font: normal normal normal normal 12px / normal Roboto, Arial;
+    margin: 6px 0px 0px;
+    outline: rgb(91, 91, 91) none 0px;
+}
+
+.placecard__direction-icon {
+    background: rgba(0, 0, 0, 0) url("https://maps.gstatic.com/mapfiles/embed/images/entity11.png") repeat scroll 0px 0px / 70px 210px padding-box border-box;
+    height: 22px;
+    width: 22px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.placecard__direction-link {
+    color: rgb(58, 132, 223);
+    display: block;
+    height: 43px;
+    text-decoration: none;
+    width: 54.7344px;
+}
+
+.placecard__view-large {
+    display: block;
+    margin-top: 10px;
+    color: rgb(58, 132, 223);
+    text-decoration: none;
+}

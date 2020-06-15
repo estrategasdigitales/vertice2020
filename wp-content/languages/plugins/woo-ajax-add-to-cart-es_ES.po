@@ -1,0 +1,48 @@
+# Translation of Plugins - Ajax add to cart for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Ajax add to cart for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-10 06:46:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Ajax add to cart for WooCommerce - Stable (latest release)\n"
+
+#. Description of the plugin
+msgid "Ajax add to cart for WooCommerce products"
+msgstr "Añade Ajax al carrito para los productos de WooCommerce"
+
+#: woo-ajax-add-to-cart.php:90
+msgid "More Info!"
+msgstr "¡Más información!"
+
+#: woo-ajax-add-to-cart.php:87
+msgid "We want to invite you to meet our WooCommerce Direct Checkout plugin which allows you to simplifies the checkout process by skipping the shopping cart page and other tips."
+msgstr "Queremos invitarte a conocer nuestro plugin de pago directo para WooCommerce que te permite simplificar el proceso de pago omitiendo la página del carrito y otros consejos."
+
+#. Plugin Name of the plugin
+msgid "Ajax add to cart for WooCommerce"
+msgstr "Añade Ajax al carrito para WooCommerce"
+
+#: woo-ajax-add-to-cart.php:125
+msgid "Premium"
+msgstr "Premiun"
+
+#: woo-ajax-add-to-cart.php:94
+msgid "Install"
+msgstr "Instalar"
+
+#: woo-ajax-add-to-cart.php:85
+msgid "Hello! Do you want to improve your sales?"
+msgstr "¡Hola! ¿Quieres mejorar tus ventas?"
+
+#. Author URI of the plugin
+msgid "https://www.quadlayers.com"
+msgstr "https://www.quadlayers.com"
+
+#. Author of the plugin
+msgid "QuadLayers"
+msgstr "QuadLayers"
