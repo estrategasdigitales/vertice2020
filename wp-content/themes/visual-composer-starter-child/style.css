@@ -1450,9 +1450,7 @@ flex-direction: column-reverse;
    h1{
     font-size: 21px !important;
    }
-    .visualcomposerstarter.woocommerce .woocommerce-page ul.products li.product, .visualcomposerstarter.woocommerce ul.products li.product{
-        margin-right: 0px !important;
-    }
+    
     .visualcomposerstarter .products .product .button.add_to_cart_button{
         width: auto !important;
     }
