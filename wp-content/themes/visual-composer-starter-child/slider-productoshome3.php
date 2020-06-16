@@ -5,7 +5,8 @@
         'post_type' => 'product',
         'posts_per_page' => -1,
         'post_status' => 'publish',
-        'product_cat' => 'electronica',
+        // 'product_cat' => 'guantes',
+        'product_cat' => 'vialidad',
     );
     $query = new WP_Query($args);
     foreach($query->posts as $p):

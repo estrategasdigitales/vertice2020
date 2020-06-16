@@ -188,15 +188,33 @@ li.product a > img{
     margin: 0px;
 }
 #departamentos h2{
-    font-size: 17px !important;
+    font-size: 24px !important;
     text-transform: uppercase;
     color: #000000 !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #face0dc4;
+    width: 100%;
+    height: 100%;
+    line-height: 195px;
+}
+.woocommerce-page.columns-5 ul.products li.product, .woocommerce.columns-5 ul.products li.product {
+    width: 47% !important;
 }
 .tp-parallax-wrap h1{
     font-size: 62px !important;
     line-height: 1 !important;
     color: #ffffff !important;
 }
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+            margin: 0 1.8% 1.4em 0 !important;
+}
+.woocommerce ul.products li.first, .woocommerce-page ul.products li.first{
+    clear: none !important;
+}
+
 .tp-parallax-wrap span{
     
     line-height: 1.5 !important;
@@ -1228,6 +1246,9 @@ flex-direction: column-reverse;
     }
      #departamentos .woocommerce ul.products[class*=columns-] li.product{
     width: 100%;
+}
+#departamentos h2{
+    line-height: 60px !important;
 }
 .slick-prev{
     left: 5px !important;
@@ -2451,16 +2472,31 @@ text-decoration: underline;
     margin-left: 15px;
 }
 .fondoproductsup{
-    background-image:url(img/fondomuebleria.jpg);
-    background-size: 100%;
-    background-size: contain;
-    padding: 55px 0px 55px 54px;
+   background-image: url(img/bannercategoria.jpg);
+    background-size: cover;
+        padding: 60px 0px 60px 0px;
     margin-bottom: 26px;
 
 }
+.dropdown-menu>li>a:active,.dropdown-menu>li>a:focus{
+    background-color: #000000 !important;
+}
+.dropdown-menu>.active>a{
+    background-color: #face0d !important;
+    color: #000000 !important;
+}
+.visualcomposerstarter .woocommerce-message, .visualcomposerstarter.woocommerce .woocommerce-message, .visualcomposerstarter .woocommerce-info, .visualcomposerstarter.woocommerce .woocommerce-info{
+    background-color: #face0d !important;
+    color: #000000 !important;
+    font-weight: bold !important;
+    border-top: 0px !important;
+}
 .archive .fondoproductsup h1{
-    
     margin-top: 0px !important;
+    text-align: center;
+    font-size: 32px !important;
+    line-height: 1;
+    text-transform: uppercase;
 }
 
 #newsletterhome .wpb_column > .vc_column-inner{
